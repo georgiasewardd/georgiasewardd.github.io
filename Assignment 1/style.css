@@ -26,7 +26,7 @@ h2 {
   text-align: center;
   font-family: QuickSand;
   font-weight: 200;
-  font-size: medium;
+  font-size: 20px;
 }
 
 /* Name */
@@ -35,7 +35,7 @@ h3 {
   text-align: center;
   font-family: QuickSand;
   font-weight: 200;
-  font-size: medium;
+  font-size: 17px;
 }
 
 /* Instructor */
@@ -44,7 +44,7 @@ h4 {
   text-align: center;
   font-family: QuickSand;
   font-weight: 200;
-  font-size: small;
+  font-size: 15px;
 }
 
 /* Opening */
@@ -53,11 +53,25 @@ h5 {
   text-align: center;
   font-family: QuickSand;
   font-weight: 300;
-  font-size: medium;
+  font-size: 17px;
 }
 
+/* Questions */
 p {
   color: #8e8e85;
   text-align: center;
   font-family: QuickSand;
+  padding: 5px;
+  font-size: 17px;
+  font-family: "Quicksand", sans-serif;
+  text-align: left;
+}
+
+ul {
+  font-family: QuickSand;
+  padding: 5px;
+  font-size: 15px;
+  font-family: "Quicksand", sans-serif;
+  text-align: left;
+  padding-left: 50px;
 }
