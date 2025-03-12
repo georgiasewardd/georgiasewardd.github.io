@@ -1,3 +1,63 @@
+body {
+  background-color: #fdc6f2;
+  text-align: left;
+  margin: auto;
+  max-width: 1000px;
+  justify-content: center;
+  align-items: center;
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: #837777;
+  font-size: 1.1rem;
+}
+
+/* Title */
 h1 {
   color: dodgerblue;
+  text-align: center;
+  font-family: QuickSand;
+}
+
+/* Welcome... */
+h2 {
+  color: #8e8e85;
+  text-align: center;
+  font-family: QuickSand;
+  font-weight: 200;
+  font-size: medium;
+}
+
+/* Name */
+h3 {
+  color: #8e8e85;
+  text-align: center;
+  font-family: QuickSand;
+  font-weight: 200;
+  font-size: medium;
+}
+
+/* Instructor */
+h4 {
+  color: #8e8e85;
+  text-align: center;
+  font-family: QuickSand;
+  font-weight: 200;
+  font-size: small;
+}
+
+/* Opening */
+h5 {
+  color: #8e8e85;
+  text-align: center;
+  font-family: QuickSand;
+  font-weight: 300;
+  font-size: medium;
+}
+
+p {
+  color: #8e8e85;
+  text-align: center;
+  font-family: QuickSand;
 }
